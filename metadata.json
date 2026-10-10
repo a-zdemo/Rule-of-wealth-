@@ -1,0 +1,6 @@
+{
+  "name": "Rules of Wealth",
+  "description": "Multiplayer strategy card game where players master wealth principles, discover business combinations, and trade cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
